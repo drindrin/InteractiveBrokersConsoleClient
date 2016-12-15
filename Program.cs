@@ -8,6 +8,8 @@ using InteractiveBrokersConsoleClient.TwsApi;
 
 namespace InteractiveBrokersConsoleClient
 {
+    // IB API Documentation for EClient:
+    // https://interactivebrokers.github.io/tws-api/classIBApi_1_1EClient.html#gsc.tab=0
     class Program
     {
         static TwsClient client;
